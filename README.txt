@@ -8,3 +8,4 @@ Step 3 : Create a app.py is a Q & A application to ask the question to gemini-pr
 
 Step 4 :  run the program in terminal,
              > streamlit run app.py
+
